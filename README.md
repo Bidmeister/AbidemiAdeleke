@@ -6,4 +6,4 @@ I am a cybersecurity student transitioning from technical support into security 
 [Google Professional Cybersecurity Certificate](https://coursera.org/share/70389fa1bda043cf473174609d7583e4)
 
 ## Projects
-[Tailscale VPN Project]
+[Tailscale VPN Project](https://github.com/Bidmeister/Tailscale-VPN-Project/tree/main)
